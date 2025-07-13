@@ -1,0 +1,20 @@
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# Build output
+bin/
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore other files
+*.log
+
+# If TitleGame.txt is generated at runtime and should not be tracked, add:
+# TitleGame.txt
+
+# Ignore everything in src/ if you don't want to track source code (usually you DO track src/)
+# src/
