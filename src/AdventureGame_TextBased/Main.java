@@ -10,7 +10,5 @@ public class Main {
 		View viewer = new View();
 		Controller userInterface = new Controller(avatarList.availableAvatar(),avatarList.availableEnemy(),avatarList.hellEnemies(), userStats, viewer, enemyStats);
 		userInterface.setStart();
-
 	}
-
 }
