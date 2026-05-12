@@ -4,8 +4,7 @@
 ![Title](# Text-Based Adventure Game
 ### A Java Console RPG with Characters, Combat, and Exploration
 
-![Title](https://raw.githubusercontent.com/AlFrancis-Dagaang/text-based-adventure-game/main/assets/title.png)
-
+![Title](assets/title.png)
 ---
 
 ## What is this?
@@ -23,7 +22,7 @@ A heavily armored warrior with high defense and powerful melee attacks. Built to
 
 **2. Wizard**
 
-![Wizard](https://raw.githubusercontent.com/AlFrancis-Dagaang/text-based-adventure-game/main/assets/character.png)
+![Wizard](assets/character.png)
 
 A master of arcane magic with devastating spell damage. Fragile but deadly at range.
 
@@ -41,7 +40,7 @@ Face dangerous foes throughout your journey:
 
 **Bandit**
 
-![Bandit](https://raw.githubusercontent.com/AlFrancis-Dagaang/text-based-adventure-game/main/assets/enemy.png)
+![Bandit](assets/enemy.png)
 
 A forest-dwelling outlaw who ambushes travelers. Quick and cunning, but weak against heavy armor.
 
